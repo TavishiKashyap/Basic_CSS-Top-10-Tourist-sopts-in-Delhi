@@ -1,0 +1,119 @@
+html{
+    background:#fbf5e5;
+}
+
+#top{
+    text-align:center;
+}
+h1{
+    
+        font-family: "Abril Fatface", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size:3rem;
+      
+      
+}
+h2{
+    
+        font-family: "Niconne", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size:2rem;
+      
+      
+}
+.main{
+    margin:80px 0px;
+}
+
+.image{
+    width:40%;
+    height:90%;
+    position:absolute;
+    top:15px;
+    border-radius:10px;
+   
+}
+
+.image2{
+    width:40%;
+    height:90%;
+    position:absolute;
+    top:15px;
+    left:57%;
+    border-radius:10px;
+}
+
+
+.big-box{
+    width:92%;
+    height: 300px;
+    background-color: #C80036;
+    padding:20px;
+    margin:15px;
+    position:relative;
+    left:18px;
+    border-radius:20px;
+
+
+}
+
+.big-box2{
+    width:92%;
+    height: 300px;
+    background-color: #0C1844;
+    padding:20px;
+    margin:10px;
+    position:relative;
+    left:18px;
+    border-radius:20px;
+
+
+}
+
+
+.heading{
+    width:97%;
+    height:20px;
+    background-color:#FF6969;
+    padding:10px;
+    color:#0C1844;
+    position:relative;
+    left:10px;
+}
+.heading2{
+    width:97%;
+    height:20px;
+    background-color:#F6C794;
+    padding:10px;
+    color:white;
+    position:relative;
+    left:10px;
+}
+
+
+
+.text-box{
+    width:50%;
+    height:80%;
+    color:white;
+    padding:10px;
+    position:absolute;
+    left:45%;
+    top:20px;
+    border-radius:20px;
+}
+
+.text-box2{
+    width:50%;
+    height:80%;
+    background-color:#d4ebf8;
+    padding:10px;
+    position:absolute;
+    left:2%;
+    top:20px;
+    border-radius:20px;
+}
+
+/*#F6C794*/
